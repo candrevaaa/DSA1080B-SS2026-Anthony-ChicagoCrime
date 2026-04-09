@@ -8,6 +8,8 @@ This project analyzes crime data from the City of Chicago for the early months o
 * **Source:** [City of Chicago Data Portal - Crimes 2026](https://data.cityofchicago.org/)
 * **Observations:** 36,000+ rows
 * **Variables:**
+## 3. Variable Descriptions
+
 | Column Name | Description |
 | :--- | :--- |
 | **ID** | Unique identifier for the record. |
@@ -18,7 +20,7 @@ This project analyzes crime data from the City of Chicago for the early months o
 | **Location Description** | The type of location where the incident occurred (e.g., Street, Residence). |
 | **Arrest** | Boolean indicating if an arrest was made. |
 | **Domestic** | Boolean indicating if the incident was domestic-related. |
-| **District** | The police district where the incident occurred. 
+| **District** | The police district where the incident occurred. |
 
 ## 3. Key Findings
 * **The Efficiency Gap:** We identified that high-volume districts often reach a "resource saturation point," where arrest rates drop significantly compared to lower-volume districts.
@@ -31,7 +33,7 @@ This project analyzes crime data from the City of Chicago for the early months o
 * **Environmental Specialization:** Prioritize deterrence-based resources for street segments and investigative response teams for residential segments. 
 
 ## 5. Tools Used
-* **Language:** Python 3.x
+* **Language:** Python 3.14.3
 * **Libraries:** Pandas (Data Cleaning), Matplotlib & Seaborn (Visualization), NumPy (Calculations).
 * **Environment:** VS Code, Jupyter Notebooks.
 * **Version Control:** GitHub.
