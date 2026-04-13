@@ -34,9 +34,9 @@ This project analyzes crime data from the City of Chicago for the early months o
 
 ## 5. Tools Used
 * **Language:** Python 3.14.3
-* **Libraries:** Pandas (Data Cleaning), Matplotlib & Seaborn (Visualization), NumPy (Calculations).
+* **Libraries:** Pandas (Data Cleaning), Matplotlib & Seaborn (Visualization).
 * **Environment:** VS Code, Jupyter Notebooks.
-* **Version Control:** GitHub.
+
 
 ## 6. Academic Integrity and AI Declaration
 * I hereby declare that this project is my original work. All data sources have been cited appropriately.
